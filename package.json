@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mrcyclist/nauka-gita-2#readme",
   "devDependencies": {
     "browser-sync": "^2.27.7"
+  },
+  "dependencies": {
+    "codegen": "^0.1.0"
   }
 }
